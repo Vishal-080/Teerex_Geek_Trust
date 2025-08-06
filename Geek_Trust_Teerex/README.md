@@ -1,3 +1,3 @@
 # Teerex_Geek_Trust
 
-### A React project just for practise purpose
+## A React project just for practise purpose
